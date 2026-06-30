@@ -81,26 +81,26 @@
 | Project | Description | Tech Stack | Links |
 |---------|-------------|------------|-------|
 | **Smart SIP** | A production-ready trading web application built for a real client as a paid freelance project. Manages transaction flows, portfolio calculations, and user profiles. | `React.js` `Node.js` `REST APIs` | [Code](https://github.com/Chandan11op/Trade-Web) / [Live](https://trade-web-clone.vercel.app/) |
-| **DripForge** | AI-enhanced e-commerce platform with smart, content-based product recommendations, secure user authentication, and premium shopping UI. | `React.js` `Node.js` `MySQL` `AI API` | [Code](https://github.com/Chandan11op) |
+| **DripForge** | AI-enhanced e-commerce platform with smart, content-based product recommendations, secure user authentication, and premium shopping UI. | `React.js` `Node.js` `MySQL` `AI API` | [Code](https://github.com/Chandan11op/DripForge) |
 | **QuickChat** | A lightweight real-time messaging application inspired by WhatsApp. Built and deployed in 2 days using Socket.io and Supabase. | `React.js` `Node.js` `Socket.IO` `Supabase` | [Code](https://github.com/Chandan11op/QuickChat) |
-| **Portfolio Website** | A responsive personal portfolio website showcasing professional experience, projects, skills, education, and credentials. | `Vite` `React.js` `Tailwind CSS` `Framer Motion` | [Code](https://github.com/Chandan11op/portfolio) / [Live](https://first-basic-portfolio.vercel.app/) |
+| **Portfolio Website** | A responsive personal portfolio website showcasing professional experience, projects, skills, education, and credentials. | `Vite` `React.js` `Tailwind CSS` `Framer Motion` | [Code](https://github.com/Chandan11op/chandan-tiwadi) / [Live](https://chandan-tiwadi.pages.dev/) |
 
 ---
 
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Chandan11op&show_icons=true&theme=tokyonight&hide_border=true&bg_color=131313&title_color=A4E6FF&text_color=e5e2e1&icon_color=eec200" alt="Chandan's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Chandan11op&layout=compact&theme=tokyonight&hide_border=true&bg_color=131313&title_color=A4E6FF&text_color=e5e2e1" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats-anuraghazra.vercel.app/api?username=Chandan11op&show_icons=true&theme=tokyonight&hide_border=true&bg_color=131313&title_color=A4E6FF&text_color=e5e2e1&icon_color=eec200" alt="Chandan's GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats-anuraghazra.vercel.app/api/top-langs?username=Chandan11op&layout=compact&theme=tokyonight&hide_border=true&bg_color=131313&title_color=A4E6FF&text_color=e5e2e1" alt="Top Languages" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Chandan11op&theme=tokyonight&hide_border=true&background=131313&ring=A4E6FF&fire=eec200&currStreakNum=e5e2e1" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=Chandan11op&theme=tokyonight&hide_border=true&background=131313&ring=A4E6FF&fire=eec200&currStreakNum=e5e2e1" alt="GitHub Streak" />
 </p>
 
 ### 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Chandan11op&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy-tawny.vercel.app/?username=Chandan11op&theme=radical&no-frame=true&no-bg=true&margin-w=4" alt="GitHub Trophies" />
 </p>
 
 ### ✍️ Random Dev Quote
