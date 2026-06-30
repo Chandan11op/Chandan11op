@@ -90,8 +90,8 @@
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats-anuraghazra.vercel.app/api?username=Chandan11op&show_icons=true&theme=tokyonight&hide_border=true&bg_color=131313&title_color=A4E6FF&text_color=e5e2e1&icon_color=eec200" alt="Chandan's GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats-anuraghazra.vercel.app/api/top-langs?username=Chandan11op&layout=compact&theme=tokyonight&hide_border=true&bg_color=131313&title_color=A4E6FF&text_color=e5e2e1" alt="Top Languages" width="48%" />
+  <img src="https://github-stats-alpha.vercel.app/api?username=Chandan11op&cc=131313&tc=e5e2e1&ic=eec200&bc=131313" alt="Chandan's GitHub Stats" width="48%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Chandan11op&theme=tokyo-night&bg_color=131313&hide_border=true" alt="GitHub Activity Graph" width="48%" />
 </p>
 
 <p align="center">
@@ -111,7 +111,7 @@
 ---
 
 <p align="center">
-  <a href="https://visitcount.itsvg.in">
-    <img src="https://visitcount.itsvg.in/api?id=Chandan11op&icon=0&color=0" alt="Visitors Count" />
+  <a href="https://github.com/Chandan11op">
+    <img src="https://komarev.com/ghpvc/?username=Chandan11op&color=a4e6ff&style=for-the-badge" alt="Visitors Count" />
   </a>
 </p>
